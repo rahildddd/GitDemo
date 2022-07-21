@@ -11,6 +11,10 @@ public class seleniumTest {
 		{
 			
 			System.out.println("web_automation");
+			
+
+			System.out.println("browser_automation");
+			
 		}
 		@Test
 		public void DESk_automation()
